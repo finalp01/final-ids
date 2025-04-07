@@ -2,6 +2,8 @@
 
 ## 1. Initialize Python Virtual Environment
 
+##Make sure ypu are using venv created by python version 3.11
+
 1. Open a terminal and navigate to the `simple_ids` directory:
    ```sh
    cd simple_ids
